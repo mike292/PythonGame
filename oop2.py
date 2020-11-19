@@ -1,3 +1,5 @@
+#CLASS METHODS
+
 class Person:
     number_of_people = 0 #Class Attribute
 
