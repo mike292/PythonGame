@@ -1,7 +1,7 @@
 # Object oriented programming
 
 class Student:
-    def __init__(self, name, age, grade):
+    def __init__(self, name, age, grade): #Created/Executed everytime an instance was made
         self.name = name
         self.age = age
         self.grade = grade
